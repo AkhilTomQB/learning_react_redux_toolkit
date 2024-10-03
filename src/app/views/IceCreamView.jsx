@@ -1,6 +1,6 @@
 import React from 'react'
 
-const iceCreamView = () => {
+const IceCreamView = () => {
   return (
     <div>
         <h2>Number of iceCreams</h2>
@@ -10,4 +10,4 @@ const iceCreamView = () => {
   )
 }
 
-export default iceCreamView
+export default IceCreamView

@@ -1,6 +1,6 @@
 import React from 'react'
 
-const cakeView = () => {
+const CakeView = () => {
   return (
     <div>
         <h2>Number of cakes</h2>
@@ -10,4 +10,4 @@ const cakeView = () => {
   )
 }
 
-export default cakeView
+export default CakeView

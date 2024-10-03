@@ -1,6 +1,6 @@
 import React from "react";
 
-const userView = () => {
+const UserView = () => {
   return (
     <div>
       <h2>List of users</h2>
@@ -8,4 +8,4 @@ const userView = () => {
   );
 };
 
-export default userView;
+export default UserView;
